@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Boss</string>
+    <string name="hello_bubbletextvew">Hello BubbleTextVew</string>
+    <string name="todo">TODO</string>
+    <string name="sf_class_name">com.example.myapplication.main.view.activity.MainActivity</string>
+</resources>
