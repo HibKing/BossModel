@@ -6,3 +6,5 @@
 ![image](https://github.com/HibKing/BossModel/blob/master/1554775837(1).png)  
 公司界面  
 ![image](https://github.com/HibKing/BossModel/blob/master/1554775854(1).png)  
+首页界面
+![image](https://github.com/HibKing/BossModel/blob/master/1554776490(1).png)
